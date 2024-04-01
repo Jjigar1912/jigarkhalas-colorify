@@ -1,6 +1,6 @@
 {
   "name": "jigarkhalas-colorify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library to colorify your console.",
   "main": "lib/index.js",
   "scripts": {
