@@ -1,0 +1,30 @@
+{
+  "name": "jigarkhalas-colorify",
+  "version": "1.0.0",
+  "description": "A library to colorify your console.",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "console log colors"
+  ],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jjigar1912/jigarkhalas-colorify"
+  },
+  "bugs": {
+    "url": "https://github.com/Jjigar1912/jigarkhalas-colorify/issues"
+  },
+  "homepage": "https://github.com/Jjigar1912/jigarkhalas-colorify#readme",
+  "devDependencies": {
+    "typescript": "^5.4.3"
+  },
+  "files": [
+    "lib/**/*"
+  ],
+  "types": "lib/index.d.ts"
+}
